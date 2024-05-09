@@ -35,3 +35,4 @@ That's the breakdown of each part of the code. It essentially creates a QR code 
 
 # Thank me later
 
+
